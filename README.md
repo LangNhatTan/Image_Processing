@@ -9,7 +9,7 @@
 # Setting and run the code
 + Step 1: Setting the Python environment.
 + Step 2: Download folder code_project in github.
-+ Step 3: Open and run file main.py.
++ Step 3: Open and run file <b>main.py</b>.
 # Screenshots
 + This is result of application
 
