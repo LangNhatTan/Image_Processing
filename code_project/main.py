@@ -24,7 +24,7 @@ print("3. gaussian_noise.jpg")
 print("4. salt-pepper_noisy.png")
 check = "r"
 while check != "e":
-    user = input("Nhap thuat toan: ")
+    user = input("Nhap thuat toan so: ")
     if user == "9":
         check = "e"
         continue
